@@ -6,7 +6,20 @@ This repository contains a Python implementation of a Poisson regression model d
 1. Model Formulation
    * Poisson distribution: $Y{i}$~$P$($\lambda{i}$)
    * Function link: $log$($\lambda{i}$) = $\beta_0$ + $\beta_1$ * $X{i}$
-3. 
+     
+2. Maximum Likelihood Estimation
+Parameters $\beta$ =($\beta_0$,$\beta_1)$ are estimated by Maximum likelihood estimation
+via scipy.optimize.minimize:
 
-# Bird Count Poisson Regression Analysis
-
+3. Estimated Parameters
+   $\beta_0$ = 2.3253
+   $\beta_1)$ = -0.0324
+   
+## How to Run
+1. Ensure Python and required libraries (`numpy`, `css`, `matplotlib`, `scipy`) are installed.
+2. Place `bird_count.csv` in the same directory as the script.
+3. Output `bird_count_prediction.csv`.
+4. Run the script:
+5. 
+```bash
+python Bird_count.py
