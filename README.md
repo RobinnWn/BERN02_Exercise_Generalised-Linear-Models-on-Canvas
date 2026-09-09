@@ -4,7 +4,7 @@ This repository contains a Python implementation of a Poisson regression model d
 
 ## Mathematical Framework & Model Results
 1. Model Formulation
-   Poisson distribution: $Y{i}$~$P($\lambda {i}$)$
+   Poisson distribution: $Y{i}$~P($\lambda {i}$)
    Function link: Log($\beta_0$)
 3. 
 
