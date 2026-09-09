@@ -13,7 +13,7 @@ via scipy.optimize.minimize:
 
 3. Estimated Parameters
    $\beta_0$ = 2.3253
-   $\beta_1)$ = -0.0324
+   $\beta_1$ = -0.0324
    
 ## How to Run
 1. Ensure Python and required libraries (`numpy`, `css`, `matplotlib`, `scipy`) are installed.
