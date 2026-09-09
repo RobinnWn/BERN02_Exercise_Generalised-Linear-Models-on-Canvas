@@ -20,6 +20,6 @@ via scipy.optimize.minimize:
 2. Place `bird_count.csv` in the same directory as the script.
 3. Output `bird_count_prediction.csv`.
 4. Run the script:
-5. 
+   
 ```bash
 python Bird_count.py
