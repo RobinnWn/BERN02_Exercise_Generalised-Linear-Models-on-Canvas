@@ -4,8 +4,8 @@ This repository contains a Python implementation of a Poisson regression model d
 
 ## Mathematical Framework & Model Results
 1. Model Formulation
-   * Poisson distribution: $Y{i}$~P($\lambda{i}$)
-   * Function link: $log$($\lambda{i}$) = ($\beta_0$)
+   * Poisson distribution: $Y{i}$~$P$($\lambda{i}$)
+   * Function link: $log$($\lambda{i}$) = $\beta_0$ + $\beta_1$ * $X{i}$
 3. 
 
 # Bird Count Poisson Regression Analysis
